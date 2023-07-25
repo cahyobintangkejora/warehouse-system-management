@@ -1,0 +1,2 @@
+cloud-sql-proxy.x64.exe sat-kapita-selekta-b:asia-southeast2:training-kapita-selekta -p 5432
+waitress-serve --listen 127.0.0.1:5000 app:app
